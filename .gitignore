@@ -6,3 +6,8 @@
 \.metadata/
 Servers/
 target/
+.idea/compiler.xml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/PoCJavaSpringHelloWorldService.iml
+.idea/vcs.xml
