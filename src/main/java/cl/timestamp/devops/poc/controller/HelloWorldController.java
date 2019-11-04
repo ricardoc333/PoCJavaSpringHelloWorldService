@@ -11,6 +11,6 @@ public class HelloWorldController {
     @RequestMapping("/hello")
     @ResponseBody
     public String sayHello() {
-        return "Hello World PoC Java Ricardo Lunes 00:54.00 Timestamp!!!";
+        return "Hello World PoC Ismael Lunes 12:02.00 !!!";
     }
 }
